@@ -13,7 +13,7 @@
             <img src="imagem-do-autor.jpg" alt="Imagem do autor" class="author-image">
             <h1>Seu Produto Aqui</h1>
             <p>Descrição curta do seu produto</p>
-            <a href="#" class="button">Compre Agora</a>
+            <a href="#" class="button">Compre AGORA</a>
         </div>
     </header>
 
